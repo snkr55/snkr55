@@ -1,6 +1,7 @@
 ## 👋 Hi there!
 
-I’m Sneha — a molecular biology enthusiast with a growing passion for biomedical informatics and genomics. I’m diving headfirst into the world of coding and data analysis, teaching myself the ropes one script at a time. While I’m still a beginner in programming, my strong foundation in molecular biology and genomics keeps me curious and motivated to decode life’s mysteries through data. Always learning, always exploring, and definitely loving the journey!
+I’m Sneha — a molecular biology enthusiast with a growing passion for biomedical informatics and genomics. With a strong foundation in life sciences, I’m diving headfirst into the world of coding and data analysis, teaching myself one script at a time. While I’m still a beginner in programming, my strong foundation in molecular biology and genomics keeps me curious and motivated to decode life’s mysteries through data. Half biologist, half data detective — 100% curious, always learning, and loving every step of the journey.
+
 
 <!--
 **snkr55/snkr55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
